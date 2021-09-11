@@ -1,6 +1,6 @@
 [Home Page](https://spo-works.github.io/SUStainability/)
 
-## Past SUS Facts
+# Past SUS Facts
 
 See SUS facts along with more information
 ### Refrigerants
