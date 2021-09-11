@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the SUS page!
 
 You can use the [editor on GitHub](https://github.com/SPO-Works/SUStainability/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
