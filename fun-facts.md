@@ -1,4 +1,4 @@
-# [My SUS page](https://spo-works.github.io/SUStainability/)
+[Home Page](https://spo-works.github.io/SUStainability/)
 
 ## Past SUS Facts
 
